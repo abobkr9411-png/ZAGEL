@@ -1,11 +1,3 @@
-
-@font-face {
-font-family: "ZagelArabic";
-font-style: normal;
-src: local(ZagelArabic), url(ZagelArabic.ttf) format("ttf");
-font-display: auto;
-}
-
 @font-face {
 font-family: "ZagelArabic";
 font-style: normal;
